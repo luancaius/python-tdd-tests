@@ -1,0 +1,2 @@
+Django==5.2.5
+selenium==4.35.0
